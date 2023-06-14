@@ -1,6 +1,8 @@
 # **Titanic**
 
-Buenas tardes, hoy vamos a realizar un estudio de un conjunto de datos pertenecientes a registros de pasajeros dentro del Titanic.
+[Aplicación en Streamlit] (https://alba-app-titanic.streamlit.app/)
+
+Se va a realizar un estudio de un conjunto de datos pertenecientes a registros de pasajeros dentro del Titanic.
 
 En este dataset utilizado durante el análisis se encuentran datos de gran relevancia relacionados con el hundimiento del Titanic. La creación de dicho barco fue de gran importancia en el siglo XX, ya que el trabajo de ingeniería realizado fue muy laborioso y suponía una conexión entre Inglaterra y Nueva York, siendo el barco de pasajeros más grande y lujoso de la historia. El Titanic albergó 2240 personas, entre tripulación y pasajeros, de los cuales murieron 1500. En este dataset, sólo hay constancia de 891 pasajeros, por lo que los diferentes descubrimientos van a ser en base a ellos, lo cuál supone 40% de las personas alojadas dentro del barco, perdiendo el 60% de la información restante. Para complementar la información dentro del dataset, se ha hecho uso de diferentes fuentes externas que han permitido llegar a conclusiones más acertadas en base a los datos obtenidos.
 
