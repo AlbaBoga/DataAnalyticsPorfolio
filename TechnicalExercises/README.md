@@ -1,6 +1,6 @@
 # Ejercicios técnicos
 
-Ejercicios que me permiten desarrollar y demostrar mis habilidades tanto en Python como en SQL.
+Ejercicios que permiten desarrollar y demostrar habilidades tanto en Python como en SQL.
 
 ### Ranking de Música
 
