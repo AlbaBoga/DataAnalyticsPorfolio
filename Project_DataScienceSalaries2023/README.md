@@ -1,5 +1,7 @@
 # Data Science Salaries 2023
 
+[Aplicación en Streamlit](https://alba-app-datascience.streamlit.app/)
+
 Este conjunto de datos es útil para entender la distribución de los salarios en el campo de la ciencia de datos y cómo estos pueden variar en función de factores como la ubicación del empleado y del empleador, el nivel de experiencia, el tipo de empleo, entre otros. Nos permite explorar el impacto del trabajo remoto en los salarios de ciencia de datos y empezar a sacar nuestras propias conclusiones.
 
 ### VARIABLES
