@@ -4,6 +4,8 @@ Conjunto de proyectos realizados para la demostración de habilidades en Python,
 
 ### TFG Diseño de estimadores para abaratar la red de sensores de un edifico bioclimático
 
+[Enlace a la seccción](https://github.com/AlbaBoga/DataAnalyticsPorfolio/tree/main/TFG_Dise%C3%B1o_estimadores)
+
 * Programación en `MATLAB`.
 * Análisis de los datos registrados por los sensores de un edificio bioclimático.
 * Definición y estudio de cada una de las variables que influyen en el cálculo del confort térmico de los usuarios.
@@ -16,6 +18,8 @@ Conjunto de proyectos realizados para la demostración de habilidades en Python,
 
 ### Proyecto Titanic
 
+[Enlace a la seccción](https://github.com/AlbaBoga/DataAnalyticsPorfolio/tree/main/Project_Titanic)
+
 * Programación en `Python`.
 * Análisis de los datos pertenecientes a los pasajeros del Titanic.
 * Preprocesamiento de los datos, buscando valores nulos, valores duplicados y limpieza de columnas pertinentes.
@@ -27,6 +31,8 @@ Conjunto de proyectos realizados para la demostración de habilidades en Python,
 
 ### Proyecto Data Science 2023
 
+[Enlace a la seccción](https://github.com/AlbaBoga/DataAnalyticsPorfolio/tree/main/Project_DataScienceSalaries2023)
+
 * Programación en `Python`.
 * Análisis del conjunto de datos perteneciente a los diferentes empleos en el sector Data Science.
 * Preprocesamiento de datos eliminando valores nulos, datos duplicados y agrupación de los diferentes trabajos en categorías.
@@ -36,5 +42,7 @@ Conjunto de proyectos realizados para la demostración de habilidades en Python,
 * [Enlace a la aplicación](https://alba-app-datascience.streamlit.app/)
 
 ### Technical Exercises
+
+[Enlace a la seccción](https://github.com/AlbaBoga/DataAnalyticsPorfolio/tree/main/TechnicalExercises)
 
 Ejercicios prácticos que permiten desarrollar y demostrar habilidades tanto en Python, PowerBI como en SQL.
