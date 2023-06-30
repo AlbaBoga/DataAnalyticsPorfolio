@@ -1,6 +1,6 @@
 # Data Analytics Portfolio
 
-Conjunto de proyectos realizados para la demostración de habilidades en Python, SQL, PowerBI, Streamlit y Machine Learning.
+Conjunto de proyectos realizados para la demostración de habilidades en Python, MATLAB, SQL, PowerBI, Streamlit y Machine Learning.
 
 ### TFG Diseño de estimadores para abaratar la red de sensores de un edifico bioclimático
 
