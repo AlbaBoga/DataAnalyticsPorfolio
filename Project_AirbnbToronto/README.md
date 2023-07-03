@@ -37,10 +37,10 @@
 
 ## Resumen de los datos
 
-*[Enlace al dashboard](https://airbnbtoronto.streamlit.app/Conclusiones)
-*[Enlace al archivo de Power BI](https://github.com/AlbaBoga/DataAnalyticsPorfolio/blob/main/Project_AirbnbToronto/AIRBNBTORONTO.pbix)
+* [Enlace al dashboard](https://airbnbtoronto.streamlit.app/Conclusiones)
+* [Enlace al archivo de Power BI](https://github.com/AlbaBoga/DataAnalyticsPorfolio/blob/main/Project_AirbnbToronto/AIRBNBTORONTO.pbix)
 * Se utiliza `Power BI` para resumir los datos más relevantes.
-* * Se muestra:
+* Se muestra:
   * Número de anfitriones.
   * Media de precio diario y media de huéspedes dependiendo de la zona y el barrio.
   * Número de ofertas por zona y barrio.
