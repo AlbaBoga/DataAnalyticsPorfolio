@@ -28,7 +28,7 @@ Conjunto de proyectos realizados para la demostración de habilidades en Python,
 * Uso de la herramienta `Power BI` para crear un panel que permita resumir los datos más importantes.
 * Conclusiones de los datos.
 * Utilización de la herramienta `Streamlit` para la visualización y explicación de los datos.
-* [Enlace a la aplicación](https://airbnbtoronto.streamlit.app/))
+* [Enlace a la aplicación](https://airbnbtoronto.streamlit.app/)
 
 ### Proyecto Titanic
 
