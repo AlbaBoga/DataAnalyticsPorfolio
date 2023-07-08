@@ -2,6 +2,26 @@
 
 Ejercicios que permiten desarrollar y demostrar habilidades en Python, PowerBI, SQL y Machine Learning.
 
+### Gradient Boosting Classifier
+
+[Enlace a la sección](https://github.com/AlbaBoga/WandbGradientBoostingClassifier)
+
+Utilización del modelo Gradient Boosting Classifier y un dataset de Vino para clasificar el vino en función de sus componentes químicos, a partir de la herramienta Wandb.
+
+### Beer Production in Austria (Estudio de Serie Temporal)
+
+[Enlace a la sección](https://github.com/AlbaBoga/DataAnalyticsPorfolio/blob/main/TechnicalExercises/BeerProductionAustria.ipynb)
+
+* Estudio de la serie temporal de la producción mensual de cerveza en Austria.
+* Uso del modelo ARIMA para la predicción de la producción de cerveza.
+* Uso del modelo NeuralProphet para la predicción de datos futuros.
+
+### Manufacturer Analysis
+
+[Enlace al dashboard](https://manufacturer.streamlit.app/)
+
+Creación de un dashboard a través de Power BI donde se analizan las ganancias de la empresa ficticia Vanarsdel, en función de sus diferentes productos, países y proveedores.
+
 ### Ejercicios de ampliación y repaso de Data Analytics
 
 [Enlace a la sección](https://github.com/AlbaBoga/DataAnalyticsPorfolio/blob/main/TechnicalExercises/Ejercicios_ampliacion_Python.ipynb)
@@ -15,18 +35,6 @@ Ejercicios que permiten desarrollar y demostrar habilidades en Python, PowerBI, 
 * Ejercicios de repaso Machine Learning: búsqueda de modelo de clasificación apropiado y uso de GridSearchCV.
 * Ejercicios de repaso Machine Learning: clasificación con KMeans.
 * Ejercicios de repaso Machine Learning: uso de modelo ARIMA y NeuralProphet para predicción de series temporales.
-
-### Manufacturer Analysis
-
-[Enlace al dashboard](https://manufacturer.streamlit.app/)
-
-Creación de un dashboard a través de Power BI donde se analizan las ganancias de la empresa ficticia Vanarsdel, en función de sus diferentes productos, países y proveedores.
-
-### Gradient Boosting Classifier
-
-[Enlace a la sección](https://github.com/AlbaBoga/WandbGradientBoostingClassifier)
-
-Utilización del modelo Gradient Boosting Classifier y un dataset de Vino para clasificar el vino en función de sus componentes químicos, a partir de la herramienta Wandb.
 
 ### Ranking de Música
 
