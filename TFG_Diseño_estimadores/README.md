@@ -22,7 +22,7 @@ El objetivo principal de este TFG es el desarrollo de una herramienta que permit
 
 ### Resultados
 
-<div style="display: flex; justify-content: center;"><img src="https://github.com/AlbaBoga/DataAnalyticsPorfolio/raw/main/TFG_Dise%C3%B1o_estimadores/img/figura1.png" alt="Figura 1" width="400"></div>
+<div style="display: flex; justify-content: center;"> <img src="https://github.com/AlbaBoga/DataAnalyticsPorfolio/raw/main/TFG_Dise%C3%B1o_estimadores/img/figura1.png" alt="Figura 1" width="400"> </div>
 
 Inicialmente, mediante el análisis de sensibilidad, se ha estudiado la influencia de las diferentes variables que intervienen en el cálculo del índice PMV. Por ejemplo, en la figura 1 se muestra la variación del índice PMV en función de los cambios realizados para la temperatura radiante media.
 
