@@ -2,19 +2,23 @@
 
 Conjunto de proyectos realizados para la demostración de habilidades en Python, MATLAB, SQL, PowerBI, Streamlit y Machine Learning.
 
-### TFG Diseño de estimadores para abaratar la red de sensores de un edifico bioclimático
+### Proyecto Titanic
 
-[Enlace a la seccción](https://github.com/AlbaBoga/DataAnalyticsPorfolio/tree/main/TFG_Dise%C3%B1o_estimadores)
+[Enlace a la seccción](https://github.com/AlbaBoga/DataAnalyticsPorfolio/tree/main/Project_Titanic)
 
-* Programación en `MATLAB`.
-* Análisis de los datos registrados por los sensores de un edificio bioclimático.
-* Definición y estudio de cada una de las variables que influyen en el cálculo del confort térmico de los usuarios.
-* Análisis de Sensibilidad para determinar la influencia de las variables en el índice PMV.
-* Eliminación de aquellos sensores de poca influencia.
-* Determinación de dependencias matemáticas entre variables.
-* Uso del `Filtro de Kalman` para la estimación del valor real de dichas variables.
-* Optimización económica de la red de sensores tras la implementación del estimador.
-* Conclusiones relevantes.
+* Programación en `Python`.
+* Análisis de los datos pertenecientes a los pasajeros del Titanic.
+* Preprocesamiento de los datos, buscando valores nulos, valores duplicados y limpieza de columnas pertinentes.
+* Utilización de un ``modelo KNN`` para predicción de las edades de los pasajeros faltantes.
+* Utilización de la librería `plotly` para la visualización de los datos.
+* Implementación de modelos de Machine Learning para clasificación y regresión.
+* Uso de modelo Gradient Boosting Classifier a través de la librería Pycaret para predicción de supervivencia.
+* Uso de modelo Gradient Boosting Classifier a través de la librería Scikit-Learn y estimación de parámetros óptimos a partir de Wandb para predicción de supervivencia.
+* Implementación de modelo Gradient Boosting Regressor a través de la librería Pycaret para predicción de precio de billete.
+* Implementación de modelo Neural Network a través de la librería Scikit-Learn para predicción de precio de billete.
+* Conclusiones de los datos.
+* Utilización de la herramienta `Streamlit` para la visualización y explicación de los datos.
+* [Enlace a la aplicación](https://alba-app-titanic.streamlit.app/)
 
 ### Proyecto Airbnb Toronto
 
@@ -30,18 +34,19 @@ Conjunto de proyectos realizados para la demostración de habilidades en Python,
 * Utilización de la herramienta `Streamlit` para la visualización y explicación de los datos.
 * [Enlace a la aplicación](https://airbnbtoronto.streamlit.app/)
 
-### Proyecto Titanic
+### TFG Diseño de estimadores para abaratar la red de sensores de un edifico bioclimático
 
-[Enlace a la seccción](https://github.com/AlbaBoga/DataAnalyticsPorfolio/tree/main/Project_Titanic)
+[Enlace a la seccción](https://github.com/AlbaBoga/DataAnalyticsPorfolio/tree/main/TFG_Dise%C3%B1o_estimadores)
 
-* Programación en `Python`.
-* Análisis de los datos pertenecientes a los pasajeros del Titanic.
-* Preprocesamiento de los datos, buscando valores nulos, valores duplicados y limpieza de columnas pertinentes.
-* Utilización de un ``modelo KNN`` para predicción de las edades de los pasajeros faltantes.
-* Utilización de la librería `plotly` para la visualización de los datos.
-* Conclusiones de los datos.
-* Utilización de la herramienta `Streamlit` para la visualización y explicación de los datos.
-* [Enlace a la aplicación](https://alba-app-titanic.streamlit.app/)
+* Programación en `MATLAB`.
+* Análisis de los datos registrados por los sensores de un edificio bioclimático.
+* Definición y estudio de cada una de las variables que influyen en el cálculo del confort térmico de los usuarios.
+* Análisis de Sensibilidad para determinar la influencia de las variables en el índice PMV.
+* Eliminación de aquellos sensores de poca influencia.
+* Determinación de dependencias matemáticas entre variables.
+* Uso del `Filtro de Kalman` para la estimación del valor real de dichas variables.
+* Optimización económica de la red de sensores tras la implementación del estimador.
+* Conclusiones relevantes.
 
 ### Proyecto Data Science 2023
 
