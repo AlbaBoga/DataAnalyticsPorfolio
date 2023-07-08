@@ -46,7 +46,7 @@
 
 ## Modelo de Clasificación
 
-[Enlace al modelo en Streamlit]
+[Enlace al modelo en Streamlit](https://titanicmodels.streamlit.app/Classification)
 
 [Enlace al informe de Wandb](https://wandb.ai/alba-m-boga/Project_Titanic/reports/Predictor-de-Supervivencia--Vmlldzo0ODA1NTE3)
 
@@ -64,7 +64,7 @@
 
 ## Modelo de Regresión
 
-[Enlace al modelo en Streamlit]
+[Enlace al modelo en Streamlit](https://titanicmodels.streamlit.app/Regression)
 
 [Enlace a la implementación de Neural Network](https://github.com/AlbaBoga/DataAnalyticsPorfolio/blob/main/Project_Titanic/tensorflowtitanic_reg.ipynb)
 
