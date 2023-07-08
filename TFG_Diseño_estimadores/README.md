@@ -22,6 +22,8 @@ El objetivo principal de este TFG es el desarrollo de una herramienta que permit
 
 ### Resultados
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" alt="Figura1" width="100">
+
 Inicialmente, mediante el análisis de sensibilidad, se ha estudiado la influencia de las diferentes variables que intervienen en el cálculo del índice PMV. Por ejemplo, en la figura 1 se muestra la variación del índice PMV en función de los cambios realizados para la temperatura radiante media.
 
 Observando cada una de las diferentes gráficas obtenidas para las diferentes variables, se ve que las dinámicas que presentan el índice PMV tanto para la variación de la temperatura del aire como para la temperatura radiante media son muy similares, por lo que se procedió a estudiar la dependencia matemática entre ambas variables. Se tomaron los datos proporcionados por los sensores del edificio CIESOL y se estudió la dinámica de la temperatura del aire y de la temperatura radiante media para una persona levantada y para una persona sentada, frente al tiempo. Utilizando primero los datos del año 2013, se observó por medio de las gráficas obtenidas que las dinámicas eran muy similares, de manera que se procedió a obtener una función de transferencia de primer orden que relacionaba las variables y se validó con los datos de los sensores para los años 2014, 2015, 2016.
