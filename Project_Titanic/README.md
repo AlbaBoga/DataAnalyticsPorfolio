@@ -8,10 +8,10 @@
 * Utilización de un ``modelo KNN`` para predicción de las edades de los pasajeros faltantes.
 * Utilización de la librería `plotly` para la visualización de los datos.
 * Implementación de modelos de Machine Learning para clasificación y regresión.
-* Uso de modelo Gradient Boosting Classifier a través de la librería Pycaret para predicción de supervivencia.
-* Uso de modelo Gradient Boosting Classifier a través de la librería Scikit-Learn y estimación de parámetros óptimos a partir de Wandb para predicción de supervivencia.
-* Implementación de modelo Gradient Boosting Regressor a través de la librería Pycaret para predicción de precio de billete.
-* Implementación de modelo Neural Network a través de la librería Scikit-Learn para predicción de precio de billete.
+* Uso de modelo Gradient Boosting Classifier a través de la librería ``Pycaret`` para predicción de supervivencia.
+* Uso de modelo Gradient Boosting Classifier a través de la librería ``Scikit-Learn`` y estimación de parámetros óptimos a partir de Wandb para predicción de supervivencia.
+* Implementación de modelo Gradient Boosting Regressor a través de la librería ``Pycaret`` para predicción de precio de billete.
+* Implementación de modelo Neural Network a través de la librería ``TensorFlow`` para predicción de precio de billete.
 * Conclusiones de los datos.
 * Utilización de la herramienta `Streamlit` para la visualización y explicación de los datos.
 * [Enlace a la aplicación](https://alba-app-titanic.streamlit.app/)
@@ -53,12 +53,12 @@
 * Los datos utilizados son: la clase del pasajero, el sexo, la edad, los acompañantes, el nivel del barco donde se alojaban y el puerto de embarque.
 * Se utiliza la librería de `pycaret` y los modelos de clasificación para estimar si dado un pasajero, sobrevivió o no durante el hundimiento del Titanic.
 * Se utiliza el modelo de clasificación Gradient Boosting Classifier y se implementa el modelo.
-* Se obtiene un accuracy del 84%.
-* Se utiliza la librería Scikit-Learn para determinar el modelo de clasificación que mejor se ajusta a los datos.
-* También se hace uso de la herramienta GridSearchCV para la búsqueda de parámetros.
-* Se obtiene un accuracy del 87% para los modelos Gradient Boosting Classifier y XGB Classifier.
-* Se utiliza la herramienta Wandb a través de una conexión API para la búsqueda de los parámetros más óptimos para implementar el modelo Gradient Boosting Classifier.
-* Se obtienen los parámetros que proporcionan un accuracy del 89% y se implementa el modelo.
+* Se obtiene un accuracy del ``84%``.
+* Se utiliza la librería ``Scikit-Learn`` para determinar el modelo de clasificación que mejor se ajusta a los datos.
+* También se hace uso de la herramienta ``GridSearchCV`` para la búsqueda de parámetros.
+* Se obtiene un accuracy del ``87%`` para los modelos Gradient Boosting Classifier y XGB Classifier.
+* Se utiliza la herramienta ``Wandb`` a través de una conexión API para la búsqueda de los parámetros más óptimos para implementar el modelo Gradient Boosting Classifier.
+* Se obtienen los parámetros que proporcionan un accuracy del ``89%`` y se implementa el modelo.
 
 ## Modelo de Regresión
 
@@ -68,9 +68,9 @@
 * Los datos utilizados son: la clase del pasajero, el sexo, la edad, los acompañantes, el nivel del barco donde se alojaban y el puerto de embarque.
 * Se utiliza la librería de `pycaret` y los modelos de regresión para estimar el precio del billete de los pasajeros.
 * Se utiliza el modelo de clasificación Gradient Boosting Regressor y se implementa el modelo.
-* Se obtiene un RMSE de 24.4 (pounds).
-* Se utiliza la librería Scikit-Learn para determinar el modelo de regresión que mejor se ajusta a los datos.
-* Se obtiene un RMSE de 16.52 (pounds) para el modelo Neural Network, y sólo considerado sólo aquellos valores atípicos cuyo z-score < 4.
-* Se implementa un modelo Neural Network a través de la librería TensorFlow, teniendo en cuenta valores atípicos.
-* Se obtiene un RMSE final de 50 (pounds) y se implementa el modelo.
+* Se obtiene un RMSE de ``24.4 (pounds)``.
+* Se utiliza la librería ``Scikit-Learn`` para determinar el modelo de regresión que mejor se ajusta a los datos.
+* Se obtiene un RMSE de ``16.52 (pounds)`` para el modelo Neural Network, y sólo considerado sólo aquellos valores atípicos cuyo z-score < 4.
+* Se implementa un modelo Neural Network a través de la librería ``TensorFlow``, teniendo en cuenta valores atípicos.
+* Se obtiene un RMSE final de ``50 (pounds)`` y se implementa el modelo.
 
