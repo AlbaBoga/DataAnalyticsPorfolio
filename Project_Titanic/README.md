@@ -61,6 +61,7 @@
 * Se obtiene un accuracy del ``87%`` para los modelos Gradient Boosting Classifier y XGB Classifier.
 * Se utiliza la herramienta ``Wandb`` a través de una conexión API para la búsqueda de los parámetros más óptimos para implementar el modelo Gradient Boosting Classifier.
 * Se obtienen los parámetros que proporcionan un accuracy del ``89%`` y se implementa el modelo.
+* Para Streamlit se ha implementado este último modelo.
 
 ## Modelo de Regresión
 
@@ -76,4 +77,5 @@
 * Se obtiene un RMSE de ``16.52 (pounds)`` para el modelo Neural Network, y sólo considerado sólo aquellos valores atípicos cuyo z-score < 4.
 * Se implementa un modelo Neural Network a través de la librería ``TensorFlow``, teniendo en cuenta valores atípicos.
 * Se obtiene un RMSE final de ``50 (pounds)`` y se implementa el modelo.
+* En `Streamlit` se ha implementado el modelo de Pycaret ya que producía el menor error.
 
