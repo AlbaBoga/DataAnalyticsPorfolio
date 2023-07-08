@@ -1,6 +1,6 @@
 # Ejercicios técnicos
 
-Ejercicios que permiten desarrollar y demostrar habilidades en Python, PowerBI y SQL.
+Ejercicios que permiten desarrollar y demostrar habilidades en Python, PowerBI, SQL y Machine Learning.
 
 ### Ejercicios de ampliación y repaso de Data Analytics
 
