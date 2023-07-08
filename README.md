@@ -12,10 +12,10 @@ Conjunto de proyectos realizados para la demostración de habilidades en Python,
 * Utilización de un ``modelo KNN`` para predicción de las edades de los pasajeros faltantes.
 * Utilización de la librería `plotly` para la visualización de los datos.
 * Implementación de modelos de Machine Learning para clasificación y regresión.
-* Uso de modelo Gradient Boosting Classifier a través de la librería Pycaret para predicción de supervivencia.
-* Uso de modelo Gradient Boosting Classifier a través de la librería Scikit-Learn y estimación de parámetros óptimos a partir de Wandb para predicción de supervivencia.
-* Implementación de modelo Gradient Boosting Regressor a través de la librería Pycaret para predicción de precio de billete.
-* Implementación de modelo Neural Network a través de la librería Scikit-Learn para predicción de precio de billete.
+* Uso de modelo Gradient Boosting Classifier a través de la librería ``Pycaret`` para predicción de supervivencia.
+* Uso de modelo Gradient Boosting Classifier a través de la librería ``Scikit-Learn`` y estimación de parámetros óptimos a partir de Wandb para predicción de supervivencia.
+* Implementación de modelo Gradient Boosting Regressor a través de la librería ``Pycaret`` para predicción de precio de billete.
+* Implementación de modelo Neural Network a través de la librería ``TensorFlow`` para predicción de precio de billete.
 * Conclusiones de los datos.
 * Utilización de la herramienta `Streamlit` para la visualización y explicación de los datos.
 * [Enlace a la aplicación](https://alba-app-titanic.streamlit.app/)
