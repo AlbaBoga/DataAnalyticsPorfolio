@@ -31,7 +31,7 @@ Inicialmente, mediante el análisis de sensibilidad, se ha estudiado la influenc
 Observando cada una de las diferentes gráficas obtenidas para las diferentes variables, se ve que las dinámicas que presentan el índice PMV tanto para la variación de la temperatura del aire como para la temperatura radiante media son muy similares, por lo que se procedió a estudiar la dependencia matemática entre ambas variables. Se tomaron los datos proporcionados por los sensores del edificio CIESOL y se estudió la dinámica de la temperatura del aire y de la temperatura radiante media para una persona levantada y para una persona sentada, frente al tiempo. Utilizando primero los datos del año 2013, se observó por medio de las gráficas obtenidas que las dinámicas eran muy similares, de manera que se procedió a obtener una función de transferencia de primer orden que relacionaba las variables y se validó con los datos de los sensores para los años 2014, 2015, 2016.
 
 <div align="center">
-  <img src="https://github.com/AlbaBoga/DataAnalyticsPorfolio/blob/main/TFG_Dise%C3%B1o_estimadores/img/figura2.png" alt="Figura 2" width="400">
+  <img src="https://github.com/AlbaBoga/DataAnalyticsPorfolio/blob/main/TFG_Dise%C3%B1o_estimadores/img/figura2.png" alt="Figura 2" width="800">
 </div>
 
 Como se puede ver en la figura 2, la función de transferencia obtenida brinda un modelo matemático capaz de predecir el valor de la temperatura radiante media a partir de uso del sensor de que mide la temperatura del aire. Seguidamente, mediante el uso del filtro de Kalman, se obtuvo un estimador que, a partir de la función de transferencia, predijese el valor de la temperatura radiante media, con el menor error posible.
@@ -39,7 +39,7 @@ Como se puede ver en la figura 2, la función de transferencia obtenida brinda u
 En la figura 3 se puede comprobar el error que se produce entre el valor real de temperatura radiante media, medido a través de un sensor y el que se predice a través del filtro de Kalman implementado. Finalmente, a partir de estos datos obtenidos se ha procedido a realizar un estudio de costes de la instalación con modelo predictivo, donde se ha comprobado que se ha llevado a cabo una reducción económica del 35% con respecto a la red original de sensores.
 
 <div align="center">
-  <img src="https://github.com/AlbaBoga/DataAnalyticsPorfolio/blob/main/TFG_Dise%C3%B1o_estimadores/img/figura3.png" alt="Figura 3" width="400">
+  <img src="https://github.com/AlbaBoga/DataAnalyticsPorfolio/blob/main/TFG_Dise%C3%B1o_estimadores/img/figura3.png" alt="Figura 3" width="800">
 </div>
 
 ### Conclusiones
