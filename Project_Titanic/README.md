@@ -47,7 +47,9 @@
 ## Modelo de Clasificación
 
 [Enlace al modelo en Streamlit]
+
 [Enlace al informe de Wandb](https://wandb.ai/alba-m-boga/Project_Titanic/reports/Predictor-de-Supervivencia--Vmlldzo0ODA1NTE3)
+
 [Enlace a búsqueda de parámetros mediante Wandb](https://github.com/AlbaBoga/DataAnalyticsPorfolio/blob/main/Project_Titanic/Project_Titanic_wandb.ipynb)
 
 * Los datos utilizados son: la clase del pasajero, el sexo, la edad, los acompañantes, el nivel del barco donde se alojaban y el puerto de embarque.
@@ -63,6 +65,7 @@
 ## Modelo de Regresión
 
 [Enlace al modelo en Streamlit]
+
 [Enlace a la implementación de Neural Network](https://github.com/AlbaBoga/DataAnalyticsPorfolio/blob/main/Project_Titanic/tensorflowtitanic_reg.ipynb)
 
 * Los datos utilizados son: la clase del pasajero, el sexo, la edad, los acompañantes, el nivel del barco donde se alojaban y el puerto de embarque.
