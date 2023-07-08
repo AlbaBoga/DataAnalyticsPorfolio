@@ -16,6 +16,15 @@ Utilización del modelo Gradient Boosting Classifier y un dataset de Vino para c
 * Uso del modelo ARIMA para la predicción de la producción de cerveza.
 * Uso del modelo NeuralProphet para la predicción de datos futuros.
 
+### A/B testing
+
+[Enlace a la sección](https://github.com/AlbaBoga/DataAnalyticsPorfolio/blob/main/TechnicalExercises/ABTesting.ipynb)
+
+* Análisis de un conjunto datos pertenecientes a los extractos bancarios de una población.
+* Uso del Test Shapiro-Wilk para determinar la distribución Gaussiana en una muestra.
+* Uso del test Mann-Whitney para determinar si se obtienen mismas distribuciones entre dos grupos de la misma muestra.
+* Uso del test Chi-cuadrado para estudiar la dependencia entre dos variables categóricas.
+
 ### Manufacturer Analysis
 
 [Enlace al dashboard](https://manufacturer.streamlit.app/)
