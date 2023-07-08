@@ -2,6 +2,20 @@
 
 Ejercicios que permiten desarrollar y demostrar habilidades en Python, PowerBI y SQL.
 
+### Ejercicios de ampliación y repaso de Data Analytics
+
+[Enlace a la sección](https://github.com/AlbaBoga/DataAnalyticsPorfolio/blob/main/TechnicalExercises/Ejercicios_ampliacion_Python.ipynb)
+
+* Ejercicios de repaso de creación de funiciones
+* Ejercicios de repaso de NumPy
+* Ejercicios de repaso de Pandas
+* Ejercicios de repaso de gráficas con plotly, seaborn y matplotlib.
+* Ejercicios de repaso A/B testing.
+* Ejercicios de repaso Machine Learning: regresión con KNN.
+* Ejercicios de repaso Machine Learning: búsqueda de modelo de clasificación apropiado y uso de GridSearchCV.
+* Ejercicios de repaso Machine Learning: clasificación con KMeans.
+* Ejercicios de repaso Machine Learning: uso de modelo ARIMA y NeuralProphet para predicción de series temporales.
+
 ### Manufacturer Analysis
 
 [Enlace al dashboard](https://manufacturer.streamlit.app/)
