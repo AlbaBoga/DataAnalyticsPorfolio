@@ -20,6 +20,20 @@ Conjunto de proyectos realizados para la demostración de habilidades en Python,
 * Utilización de la herramienta `Streamlit` para la visualización y explicación de los datos.
 * [Enlace a la aplicación](https://alba-app-titanic.streamlit.app/)
 
+### TFG Diseño de estimadores para abaratar la red de sensores de un edifico bioclimático
+
+[Enlace a la seccción](https://github.com/AlbaBoga/DataAnalyticsPorfolio/tree/main/TFG_Dise%C3%B1o_estimadores)
+
+* Programación en `MATLAB`.
+* Análisis de los datos registrados por los sensores de un edificio bioclimático.
+* Definición y estudio de cada una de las variables que influyen en el cálculo del confort térmico de los usuarios.
+* Análisis de Sensibilidad para determinar la influencia de las variables en el índice PMV.
+* Eliminación de aquellos sensores de poca influencia.
+* Determinación de dependencias matemáticas entre variables.
+* Uso del `Filtro de Kalman` para la estimación del valor real de dichas variables.
+* Optimización económica de la red de sensores tras la implementación del estimador.
+* Conclusiones relevantes.
+
 ### Proyecto Airbnb Toronto
 
 [Enlace a la sección](https://github.com/AlbaBoga/DataAnalyticsPorfolio/tree/main/Project_AirbnbToronto)
