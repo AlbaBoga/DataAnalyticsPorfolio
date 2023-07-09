@@ -70,12 +70,18 @@
 
 [Enlace a la implementación de Neural Network](https://github.com/AlbaBoga/DataAnalyticsPorfolio/blob/main/Project_Titanic/tensorflowtitanic_reg.ipynb)
 
+[Enlace al informe de Wandb](https://wandb.ai/alba-m-boga/Titanic_reg2/reports/MLPRegressor-Model-for-Titanic-Fare--Vmlldzo0ODM1MjI0)
+
+[Enlace a búsqueda de parámetros mediante Wandb](https://github.com/AlbaBoga/DataAnalyticsPorfolio/blob/main/Project_Titanic/Titanic_MLPRegressor_Wandb.ipynb)
+
 * Los datos utilizados son: la clase del pasajero, el sexo, la edad, los acompañantes, el nivel del barco donde se alojaban y el puerto de embarque.
 * Se utiliza la librería de `pycaret` y los modelos de regresión para estimar el precio del billete de los pasajeros.
 * Se utiliza el modelo de clasificación Gradient Boosting Regressor y se implementa el modelo.
 * Se obtiene un RMSE de ``24.4 (pounds)``.
 * Se utiliza la librería ``Scikit-Learn`` para determinar el modelo de regresión que mejor se ajusta a los datos.
-* Se obtiene un RMSE de ``16.52 (pounds)`` para el modelo Neural Network, y sólo considerado sólo aquellos valores atípicos cuyo z-score < 4.
+* Se obtiene un RMSE de ``16.52 (pounds)`` para el modelo MLPRegressor, y sólo considerado sólo aquellos valores atípicos cuyo z-score < 4.
+* Se utiliza la herramienta Wandb a través de una conexión API para la búsqueda de los parámetros más óptimos para el modelo ``MLPRegressor``, teniendo en cuenta valores atípicos.
+* Se obtiene un RMSE final de `49.37 (pounds)`.
 * Se implementa un modelo Neural Network a través de la librería ``TensorFlow``, teniendo en cuenta valores atípicos.
 * Se obtiene un RMSE final de ``50 (pounds)`` y se implementa el modelo.
 * En `Streamlit` se ha implementado el modelo de Pycaret ya que producía el menor error.
