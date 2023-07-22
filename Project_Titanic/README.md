@@ -16,6 +16,7 @@
 * Conclusiones de los datos.
 * Utilización de la herramienta `Streamlit` para la visualización y explicación de los datos.
 * [Enlace a la aplicación](https://alba-app-titanic.streamlit.app/)
+* [Notebook con el código del análisis realizado](https://github.com/AlbaBoga/DataAnalyticsPorfolio/blob/main/Project_Titanic/Project_Titanic.ipynb)
 
 ## Preprocesamiento
 
