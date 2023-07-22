@@ -20,3 +20,53 @@
 * Conclusiones de los datos.
 * Utilización de la herramienta `Streamlit` para la visualización y explicación de los datos.
 * [Enlace a la aplicación](https://electronics.streamlit.app/)
+* [Notebook con el código del análisis realizado](https://github.com/AlbaBoga/DataAnalyticsPorfolio/blob/main/Project_ElectronicProducts/Proyecto_Digital.ipynb)
+
+## Preprocesamiento
+
+* Búsqueda de valores duplicados.
+* Búsqueda y eliminación de columnas con más de un `20% de datos nulos`.
+* Creación de nuevas categorías en tipos de envío, disponibilidad de artículos, estado de productos, categorías, peso, tiendas y fuente de información, para agrupar los valores existentes y hacerlos más legibles.
+* Cambio del tipo de dato en las columnas de fechas.
+* Reordeno las columnas para que sea más fácil la visualización de los datos y me quedo con sólo aquellas columnas de interés.
+* Había un `40% de datos nulos` en la columna tipo de envío por lo que se imputan los valores mediante un `Random Forest Classifier` (librería Scikit-Learn) con `accuracy: 84%`.
+* Creo una nueva columna para analizar el precio medio de los artículos visitados.
+* Hago que la divisa para todos los precios sea dólares (`USD`).
+
+## Observaciones
+
+* Proporción de artículos visitados en función de:
+  * Categorías principales.
+  * Tipos den envío.
+  * Disponibilidad de artículos.
+  * Estado de los artículos.
+  * Artículos en rebajas.
+* Marcas más populares en función de la categoría principal de cada artículo.
+* Tiendas más visitadas.
+* Distribución de los precios de los productos en función de las visitas realizadas.
+* Distribución de los precios de los productos en función de:
+  * Disponibilidad.
+  * Estado.
+  * Rebajas.
+  * Envíos.
+  * Tiendas.
+* Precio medio de los artículos visitados en cada tienda en función de la fecha.
+
+## A/B Testing y Análisis de Hipótesis
+
+* Uso del `test Shapiro-Wilk` para determinar si la distribución de precios de productos visitados sigue una distribución normal.
+* * A/B testing (`test Shapiro-Wilk` y `test U de Mann-Whitney`), para determinar:
+  * Si la distribución de precios para aquellos artículos disponibles y los que sólo están disponibles por encargo es la misma.
+  * Si los clientes buscan los mismos rangos de precios en artículos nuevos y usados.
+  * Si los clientes buscan el mismo rango de precios para artículos rebajados y artículos sin descuento.
+  * Si los clientes buscan el mismo rango de precio para envios estándar gratuitos y envíos con un mínimo de compra.
+  * Si los clientes buscan el mismo rango de precios en las tiendas más visitadas, que serían Walmart y Bestbuy.
+* Análisis de la estacionariedad de los precios de productos visitados mensualmente mediante `test Dickey-Fuller aumentada (ADF)` y `test Kwiatkowski–Phillips–Schmidt–Shin (KPSS)`
+
+## Estudio de Serie Temporal
+
+
+
+## Modelo de Clasificación
+
+## Dashboard
