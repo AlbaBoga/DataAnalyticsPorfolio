@@ -28,6 +28,7 @@ Utilización del modelo Gradient Boosting Classifier y un dataset de Vino para c
 ### Manufacturer Analysis
 
 [Enlace al dashboard en Streamlit](https://manufacturer.streamlit.app/)
+
 [Enlace al dashboard de PowerBi](https://github.com/AlbaBoga/DataAnalyticsPorfolio/blob/main/TechnicalExercises/ManufacturerAnalysis.pbix)
 
 Creación de un dashboard a través de Power BI donde se analizan las ganancias de la empresa ficticia Vanarsdel, en función de sus diferentes productos, países y proveedores.
