@@ -89,7 +89,9 @@
 ### Gradient Boosting Classifier
 
 [Enlace al modelo en Streamlit](https://electronicsmodels.streamlit.app/Gradient_Boostring_Classifier)
+
 [Enlace al informe de Wandb](https://wandb.ai/alba-m-boga/project_digital4/reports/Modelo-de-clasificaci-n-de-tiendas--Vmlldzo0ODg2ODg4)
+
 [Enlace a la búsqueda de parámetros mediante Wandb](https://github.com/AlbaBoga/DataAnalyticsPorfolio/blob/main/Project_ElectronicProducts/Project_digital_wandb.ipynb)
 
 * Uso de la librería `Scikit-Learn` para determinar el modelo de clasificación que mejor se ajusta a los datos.
@@ -100,6 +102,7 @@
 ### Red Neuronal
 
 [Enlace al modelo en Streamlit](https://electronicsmodels.streamlit.app/Red_Neuronal)
+
 [Enlace al código e implementación del modelo](https://github.com/AlbaBoga/DataAnalyticsPorfolio/blob/main/Project_ElectronicProducts/tensorflowdigital_class.ipynb)
 
 * Uso de la librería `TensorFlow` para implementar una Red Neuronal.
@@ -109,6 +112,7 @@
 ## Dashboard
 
 [Enlace al dashboard en Streamlit](https://electronics.streamlit.app/Conclusiones)
+
 [Enlace al dashboard en PowerBi](https://github.com/AlbaBoga/DataAnalyticsPorfolio/blob/main/Project_ElectronicProducts/productoselectronicos.pbix)
 
 * Resumen de los datos analizados.
