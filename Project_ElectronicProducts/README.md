@@ -124,4 +124,5 @@
 ## Logos e imágenes
 
 Logo: [vecteezy.com](https://www.vecteezy.com/)
+
 Imágenes de la cabecera: [canva.com](https://www.canva.com/)
